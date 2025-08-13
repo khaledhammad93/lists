@@ -105,7 +105,7 @@
 195.60.68
 199.182.216.
 1debit.com
-1password.okta.com3
+1password.okta.com
 204.76.64
 216.85.175.
 23andme.okta.com
