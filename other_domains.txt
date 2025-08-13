@@ -829,7 +829,6 @@ jojo.exchange
 jpmc.reflexisinc.com
 js.crypto.com
 juiker.net
-jumper.exchange
 juno-srs.oportun.com
 justeat-it.talkdeskid.com
 k-health.rise.com
