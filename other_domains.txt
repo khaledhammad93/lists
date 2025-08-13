@@ -193,7 +193,6 @@ admincms.monespacesante.fr
 admindevices.uberinternal.com
 adminportal.extendedstayamerica.
 adminstore.monespacesante.fr
-adobe.okta.com
 aeo.onelogin.com
 affinity.okta.com
 affirm.okta.com
