@@ -801,7 +801,6 @@ iqoption.slack.com
 irobot.okta.com
 isharesonline.com
 island.okta.com
-itmg.co.id
 jamfpro.shopifycloud.com
 jehad.ps
 jfrog-ltd.vmwareidentity.eu
