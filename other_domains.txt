@@ -37,7 +37,6 @@
 .indriver.io
 .iotp.kone.
 .jimdo.systems
-.jimdosite.com
 .khealth.io
 .kidzonerak.com
 .lvh.systems
@@ -60,7 +59,6 @@
 .playticorp.com
 .pnimedia.com
 .ppbdev.com/view/login
-.privy.io
 .prod.nube.tech
 .profitect.com
 .pttpro.zebra.com
@@ -378,7 +376,6 @@ cagbrands.atlassian.net
 calendly.okta.com
 cambiumnetworks.my.idaptive.app
 canva.okta.com
-capcutapi.com
 capitalcom.okta.com
 captivateiq.okta.com
 careem.okta-emea.com
@@ -827,7 +824,6 @@ jira.krafton.com
 jira.oportun.com
 jira.scopely.io
 jira.walmart.com
-jobs.parexel.com
 joinclubhouse.com
 jojo.exchange
 jpmc.reflexisinc.com
@@ -1235,7 +1231,6 @@ sftp.extendedstay.com
 sftp.therealreal.com
 sftp.thrivent.com
 share.doppler.com
-share.synthesia.io
 sheinglobal.okta.com
 shipt.okta.com
 shopify.enterprise.slack.com
