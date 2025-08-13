@@ -2428,7 +2428,6 @@ zynga.okta.com,Cloudflare.okta.com
 @chargepoint.com
 @charliehr.com
 @chatdate.app
-@chaturbate.com
 @chefboyardee.com
 @chg.org.uk
 @chia.net
