@@ -368,7 +368,6 @@ bupaaus.service-now.com
 butlerfortrello.com
 buzzfeed.okta.com
 bybit.okta.com
-c3.ai
 c3exmachina.ai
 caesars-app.sprinklr.com
 caesars.okta.com
