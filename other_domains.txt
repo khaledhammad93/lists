@@ -2589,7 +2589,6 @@ zynga.okta.com,Cloudflare.okta.com
 @cybersyn.com
 @cylog.io
 @cytomicmodel.com
-@dailymotion.com
 @dailypay.com
 @daimo.com
 @dana.id
