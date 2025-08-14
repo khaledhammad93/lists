@@ -1777,7 +1777,6 @@ midway-auth.amazon.com
 mlmsti06app01.zebra.com
 mollie.okta.com
 monash.slack.com
-monashuni.okta.com
 moovit.slack.com
 mozilla.enterprise.slack.com
 mozilla.slack.com
