@@ -51,7 +51,6 @@
 .nhaero.com
 .palantirfoundry.com
 .paradigm.trade
-.paze.com
 .pentest.clicsante.ca
 .percy.io
 .pigment.com
