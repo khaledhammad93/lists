@@ -4210,7 +4210,6 @@ netlify.okta.com
 neuralprisma.com
 newrelic.okta.com
 news.expert.de
-ninjaone.com
 ninjaone.okta.com
 ninjarmm.okta.com
 nisccoop.okta.com
