@@ -3273,7 +3273,6 @@ rhodescomputerservices@gmail.com
 .sl.zebra.com
 .snapcap.com
 .srsng.org
-.sts.global.corp.sap
 .tari.com
 .tarilabs.com
 .tescocloud.com
