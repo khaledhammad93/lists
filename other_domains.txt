@@ -74,7 +74,6 @@
 .sl.zebra.com
 .snapcap.com
 .srsng.org
-.sts.global.corp.sap
 .tarilabs.com
 .tescocloud.com
 .testgp.net
