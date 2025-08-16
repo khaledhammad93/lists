@@ -8330,3 +8330,4 @@ admin.egress.com
 admin.rechargeapps.com
 admin.specialized.com
 admin.testnet.paradigm.trade
+admin.tst.greatergiving.com
