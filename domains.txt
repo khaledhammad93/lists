@@ -5187,3 +5187,4 @@ vpn.wirtgen.ie
 @dcuniverse.com
 @nuhs.edu.sg
 @eurosport.com
+@cnn.com
