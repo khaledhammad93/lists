@@ -5240,3 +5240,4 @@ internal.issuing.api.boldcf.co
 internal.us-west-2.deposit.api.boldcf.co
 internal.us-west-2.finance.api.boldcf.co
 internal.us-west-2.issuing.api.boldcf.co
+uat.prodinternal.site
