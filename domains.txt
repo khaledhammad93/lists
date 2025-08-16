@@ -5182,3 +5182,4 @@ vpn.wirtgen.ie
 @discovery.com
 @nhg.com.sg
 @own.tv
+@de.porsche.com
