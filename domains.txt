@@ -5236,3 +5236,4 @@ websockets-internal.flocksafety.com
 accounting.internal.api.bold.co
 internal.deposit.api.boldcf.co
 internal.finance.api.boldcf.co
+internal.issuing.api.boldcf.co
