@@ -5326,3 +5326,4 @@ auth.eu.blink.app
 go2.atlassian.com
 gmail.atlassian.com
 pke-stg.atlassian.com
+stg.atlassian.com
