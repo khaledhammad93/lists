@@ -8297,3 +8297,4 @@ vpn.wirtgen.ie
 @visa.com
 @wallethub.com
 @westernunion.com
+@discovery.com
