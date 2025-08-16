@@ -8391,3 +8391,4 @@ staging-paymentsonline.io
 vpn-uswest2.atlassian.com
 tools.atlassian.com
 auth.eu.blink.app
+go2.atlassian.com
