@@ -5234,3 +5234,4 @@ careem-internal.com
 internal.support.flocksafety.com
 websockets-internal.flocksafety.com
 accounting.internal.api.bold.co
+internal.deposit.api.boldcf.co
