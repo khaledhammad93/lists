@@ -8380,3 +8380,4 @@ employer.opers.org
 requests.wbtvd.com
 prod.alkira3.net
 install.appcenter.ms
+.halp.com
