@@ -1769,7 +1769,6 @@ mercadolibre.atlassian.net
 merge-my.sharepoint.com
 metronet.atlassian.net
 metronet.fs.ocs.oraclecloud.com
-midway-auth.amazon.com
 mlmsti06app01.zebra.com
 mollie.okta.com
 monash.slack.com
