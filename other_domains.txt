@@ -8317,3 +8317,4 @@ vpn.payfit.tech
 remoteuseraccess.corp.vpn.preprod.alkira3.net
 fs.jetblue.com
 icann-nsp.okta.com
+tw.okta.com
