@@ -8382,3 +8382,4 @@ prod.alkira3.net
 install.appcenter.ms
 .halp.com
 @phenompro.com
+@phenom.com
