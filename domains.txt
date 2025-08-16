@@ -5312,3 +5312,4 @@ github.com/vercel
 /sourcegraph
 /streamlit
 /vercel
+.halp.com
