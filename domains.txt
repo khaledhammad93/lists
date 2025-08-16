@@ -5209,4 +5209,3 @@ admin-api.gravie.com
 admin-sandbox.sequoia-development.com
 admin.cloudbees.com
 admin.egress.com
-admin.inshur.com/eu
