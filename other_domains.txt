@@ -8374,3 +8374,4 @@ email.gh-mail.flocksafety.com
 email.mail.flocksafety.com
 employee-dev.caesars.com
 employee-uat.mycompassu.com
+employee.store.2k.com
