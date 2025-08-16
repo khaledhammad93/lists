@@ -5206,3 +5206,4 @@ sso.duckduckgo.com
 sso.manomano.com
 sso.telia.ee
 admin-api.gravie.com
+admin-sandbox.sequoia-development.com
