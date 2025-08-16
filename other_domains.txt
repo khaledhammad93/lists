@@ -8361,7 +8361,6 @@ internal.us-west-2.issuing.api.boldcf.co
 uat.prodinternal.site
 uat.secondarytools.com
 uat.testinternal.site
-wiki.guildwars.com
 wiki.guildwars2.com
 onewiki.si-marketdata.com
 itsupport.goflink.com
