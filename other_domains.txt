@@ -4931,7 +4931,6 @@ zynga.okta.com,Cloudflare.okta.com
 @xing.io
 @xrpl.org
 @xverse.app
-@xvideos.com
 @yahooinc.com
 @yahoosports.com
 @yelp.com
