@@ -8342,3 +8342,4 @@ internal-admin.aerodome.com
 org-admin.fusionfabric.cloud
 root-admin.production.aerodome.com
 admin.revaluemycard.com
+admin.mailchimp.com
