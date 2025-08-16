@@ -1447,7 +1447,6 @@ virtru.okta.com
 virtru.testrail.net
 virtualworkspace.aig.com
 visit.aljazeera.net
-vodafone.om
 voiapp-hq.slack.com
 voice-over.app
 volans.tech
