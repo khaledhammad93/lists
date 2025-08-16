@@ -5194,3 +5194,4 @@ appaccess.gslb.jetblue.com
 blueandyout3.jetblue.com
 btmubvpn.br.mufg.jp
 btmubvpndr.br.mufg.jp
+bucksgaming.nba.com
