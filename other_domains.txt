@@ -8337,3 +8337,4 @@ comptiassoprodfaadmineus01.azurewebsites.net
 franadmin.snapon.com
 ftpadmin-1.autovhc.co.uk
 ftpadmin-2.autovhc.co.uk
+g6-admin-dr.hotelkeyapp.com
