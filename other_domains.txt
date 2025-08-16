@@ -20,7 +20,6 @@
 .dvb.corpinter.net
 .edition.in
 .elmar.nl
-.espc.com
 .exocad.net
 .falconrak.ae
 .fga.dev
