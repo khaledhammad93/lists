@@ -803,7 +803,6 @@ jfrog.okta.com
 jfrogg.greythr.com
 jimdo.okta.com
 jimdo.systems
-jimdosite.com
 jira.aljazeera.net
 jira.bigcommerce.com
 jira.blizzard.com
