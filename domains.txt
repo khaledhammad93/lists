@@ -5229,3 +5229,4 @@ admin.lvh.systems
 admin.autovhc.net
 chinaadmin.sdupdates.com
 admin-paper.staging-v2.tradetalk.us
+admin.smile-insurances.ch
