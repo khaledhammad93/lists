@@ -5190,3 +5190,4 @@ vpn.wirtgen.ie
 @cnn.com
 @bleacherreport.com
 appaccess.jetblue.com
+appaccess.gslb.jetblue.com
