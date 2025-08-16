@@ -8362,3 +8362,4 @@ uat.prodinternal.site
 uat.secondarytools.com
 uat.testinternal.site
 wiki.guildwars.com
+wiki.guildwars2.com
