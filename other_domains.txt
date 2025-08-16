@@ -8328,3 +8328,4 @@ admin-sandbox.sequoia-development.com
 admin.cloudbees.com
 admin.egress.com
 admin.rechargeapps.com
+admin.specialized.com
