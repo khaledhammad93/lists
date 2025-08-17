@@ -8437,3 +8437,4 @@ nwgvcmg.nwgpeople.com
 mfa.regions.com
 enerbank.com
 sumsub.enterprise.slack.com
+covantis-preprod.eu.auth0.com
