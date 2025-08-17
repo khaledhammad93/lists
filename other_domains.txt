@@ -8399,3 +8399,4 @@ loom-media-production.s3
 loom-prd-usw2-media.s3
 @saucelabs.com
 admin.saucelabs.com
+@testfairy.com
