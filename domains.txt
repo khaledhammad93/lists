@@ -5313,3 +5313,4 @@ rainforestpay.slack.com
 parkbee.okta.com
 parkbee.enterprise.slack.com
 ftp.bio-rad.com
+@bio-rad.com
