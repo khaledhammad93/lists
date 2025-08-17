@@ -8422,3 +8422,4 @@ admin.zooz.com
 debtbook.okta.com
 @natwest.com
 ulydien.ie
+@ulsterbank.co.uk
