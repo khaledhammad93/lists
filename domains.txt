@@ -5325,3 +5325,4 @@ prevail.okta.com
 moonactive.slack.com
 callrail.slack.com
 @nooks.ai
+admin.zooz.com
