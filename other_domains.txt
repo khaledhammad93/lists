@@ -8442,3 +8442,4 @@ canva.cloudflareaccess.com
 @rockstarnorth.com
 @circolocorecords.com
 useloom.atlassian.net
+@resideo.com
