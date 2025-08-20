@@ -926,7 +926,6 @@ melio.okta.com
 membercarecallcenter.ning.com
 meraki.okta.com
 mercadolibre.snipe-it.io
-mercadolibre.turecibo.com
 mergify.slack.com
 messagebird.okta.com
 metisdao.atlassian.net
