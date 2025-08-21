@@ -8460,3 +8460,4 @@ messagebird.com
 .onetrust.dev
 corp.planetart.com
 @bunny.net
+bunny.onelogin.com
