@@ -5154,7 +5154,6 @@ zynga.okta.com,Cloudflare.okta.com
 %40andycapps.com
 %40angelamia.com
 %40anker-in.com
-%40ankermake.com
 %40ankr.com
 %40ansarollah.com
 %40anschreiben.com
