@@ -2023,7 +2023,6 @@ zynga.okta.com,Cloudflare.okta.com
 @anchorfluidsystems.com
 @andycapps.com
 @angelamia.com
-@ankermake.com
 @ankr.com
 @ansarollah.com
 @anschreiben.com
