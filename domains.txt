@@ -5369,3 +5369,4 @@ teslamotorsinc.onmicrosoft.com
 alloy.okta.com
 adfs.inditex.com
 @ext.zara.com
+@zara.com
