@@ -8460,3 +8460,4 @@ corp.planetart.com
 bunny.onelogin.com
 teslamotorsinc.onmicrosoft.com
 @alloy.co
+alloy.okta.com
