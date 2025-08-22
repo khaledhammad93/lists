@@ -8462,3 +8462,4 @@ alloy.okta.com
 adfs.inditex.com
 @ext.zara.com
 @zara.com
+jira.inditex.com
