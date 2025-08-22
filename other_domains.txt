@@ -8464,3 +8464,4 @@ adfs.inditex.com
 @zara.com
 jira.inditex.com
 @trendmicro.com
+@spe.sony.com
