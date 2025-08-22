@@ -5367,3 +5367,4 @@ bunny.onelogin.com
 teslamotorsinc.onmicrosoft.com
 @alloy.co
 alloy.okta.com
+adfs.inditex.com
