@@ -8336,7 +8336,6 @@ internal-admin.aerodome.com
 org-admin.fusionfabric.cloud
 root-admin.production.aerodome.com
 admin.revaluemycard.com
-admin.mailchimp.com
 admin.lvh.systems
 admin.autovhc.net
 chinaadmin.sdupdates.com
