@@ -8465,3 +8465,4 @@ adfs.inditex.com
 jira.inditex.com
 @trendmicro.com
 @spe.sony.com
+sso.corp.mparticle.com
