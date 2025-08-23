@@ -8468,3 +8468,4 @@ jira.inditex.com
 sso.corp.mparticle.com
 @chipotle.com
 okta.chipotle.com
+@anna.money
