@@ -8469,3 +8469,4 @@ sso.corp.mparticle.com
 @chipotle.com
 okta.chipotle.com
 @anna.money
+@avalara.com
