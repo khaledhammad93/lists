@@ -5461,3 +5461,4 @@ clientvpn.usz.ch
 mypc.usz.ch
 mypc-partner.usz.ch
 partner.usz.ch
+partnertest.usz.ch
