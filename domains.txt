@@ -5422,3 +5422,4 @@ humio.com
 moveworks.okta.com
 headspace.enterprise.slack.com
 hellofresh.stellaconnect.net
+inditex.jfrog.io
