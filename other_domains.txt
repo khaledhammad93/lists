@@ -8477,3 +8477,4 @@ annamoney.au
 login.workspace.bmw
 sso.geocomply.com
 stg.walmart.com
+fanduel.atlassian.net
