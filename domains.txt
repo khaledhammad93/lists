@@ -5399,3 +5399,4 @@ jfrogex.qualtrics.com
 bitbucket.wpengine.com
 .dev.dialogue.co
 mattermost.okta.com
+git.vdoo.io
