@@ -5463,3 +5463,4 @@ mypc-partner.usz.ch
 partner.usz.ch
 partnertest.usz.ch
 vpntest.usz.ch
+servicenow.usz.ch
