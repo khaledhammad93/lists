@@ -8554,3 +8554,4 @@ vpntest.usz.ch
 servicenow.usz.ch
 glogman.bitexen.com
 logman.bitexen.com
+tsadf.sec.toyota-europe.com
