@@ -8553,3 +8553,4 @@ partnertest.usz.ch
 vpntest.usz.ch
 servicenow.usz.ch
 glogman.bitexen.com
+logman.bitexen.com
