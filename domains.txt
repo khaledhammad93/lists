@@ -5442,3 +5442,4 @@ transporteycontroldestock.cloud.inditex.com
 grupoinditex.sharepoint.com
 opercredits.com
 backoffice.lansweeper.com
+admin.stage.lendo.se
