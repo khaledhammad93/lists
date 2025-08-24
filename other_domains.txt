@@ -8507,3 +8507,4 @@ wellsfargo.okta.com
 @adaptive-shield.com
 adaptive-shield.com
 humio.com
+moveworks.okta.com
