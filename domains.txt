@@ -5438,3 +5438,4 @@ backend-capital.com
 productiv.okta.com
 mail.inditex.com
 transporteycontroldestock.cloud.inditex.com
+.cloud.inditex.com
