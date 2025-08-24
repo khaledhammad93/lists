@@ -5417,3 +5417,4 @@ sumup.desko.com.br
 jira.roblox.com
 wellsfargo.okta.com
 @adaptive-shield.com
+adaptive-shield.com
