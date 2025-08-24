@@ -8528,3 +8528,4 @@ mail.inditex.com
 transporteycontroldestock.cloud.inditex.com
 .cloud.inditex.com
 grupoinditex.sharepoint.com
+opercredits.com
