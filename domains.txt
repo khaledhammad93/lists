@@ -5420,3 +5420,4 @@ wellsfargo.okta.com
 adaptive-shield.com
 humio.com
 moveworks.okta.com
+headspace.enterprise.slack.com
