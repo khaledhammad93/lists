@@ -8517,3 +8517,4 @@ vpn.billit.be
 glassdoor.atlassian.net
 @glassdoor
 splunk.okta.com
+sts.allegrogroup.com
