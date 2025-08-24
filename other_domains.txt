@@ -8482,3 +8482,4 @@ t-mobile.okta.com
 sts3.t-mobile.com
 login.bitso.io
 dointernal.com
+emoneyadvisor.okta.com
