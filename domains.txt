@@ -5459,3 +5459,4 @@ admin.payex.com
 usz.service-now.com
 clientvpn.usz.ch
 mypc.usz.ch
+mypc-partner.usz.ch
