@@ -8493,3 +8493,4 @@ analytics.krisp.ai
 grammarly.io
 bitmex.freshdesk.com
 bitmex-org.freshworks.com
+bitgo.enterprise.slack.com
