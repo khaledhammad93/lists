@@ -5391,3 +5391,4 @@ sso.geocomply.com
 stg.walmart.com
 fanduel.atlassian.net
 t-mobile.okta.com
+sts3.t-mobile.com
