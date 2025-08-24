@@ -5413,3 +5413,4 @@ fs.qservco.com
 issues.rei.com
 synthesia.okta.com
 citrix-dl.1und1.net
+sumup.desko.com.br
