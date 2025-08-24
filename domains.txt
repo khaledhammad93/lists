@@ -5416,3 +5416,4 @@ citrix-dl.1und1.net
 sumup.desko.com.br
 jira.roblox.com
 wellsfargo.okta.com
+@adaptive-shield.com
