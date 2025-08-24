@@ -8499,3 +8499,4 @@ corp.acronis.com
 @bitdefender.biz
 fs.qservco.com
 issues.rei.com
+synthesia.okta.com
