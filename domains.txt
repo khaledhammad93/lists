@@ -5486,4 +5486,3 @@ securityscorecard.okta.com
 adfs.ds.dtvops.net
 dtvops.net
 vpn.rockwell.com
-idp.rockwellautomation.com
