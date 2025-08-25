@@ -8559,3 +8559,4 @@ surveys.atlassian.com
 @alvaria.com
 @aristocrat.com
 @finnair.com
+adfs.finnair.com
