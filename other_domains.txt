@@ -8568,3 +8568,4 @@ fs.rockwellautomation.com
 @modal.com
 @Directv.com
 @securityscorecard.io
+securityscorecard.okta.com
