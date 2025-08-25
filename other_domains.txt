@@ -8569,3 +8569,4 @@ fs.rockwellautomation.com
 @Directv.com
 @securityscorecard.io
 securityscorecard.okta.com
+@cvedetails.com
