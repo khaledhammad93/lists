@@ -8567,3 +8567,4 @@ sts.finnair.com
 fs.rockwellautomation.com
 @modal.com
 @Directv.com
+@securityscorecard.io
