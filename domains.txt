@@ -5473,3 +5473,4 @@ surveys.atlassian.com
 @finnair.com
 adfs.finnair.com
 sts.finnair.com
+@rockwellautomation.com
