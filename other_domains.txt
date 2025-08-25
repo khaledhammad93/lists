@@ -8570,3 +8570,4 @@ fs.rockwellautomation.com
 @securityscorecard.io
 securityscorecard.okta.com
 @cvedetails.com
+@securityscorecard.com
