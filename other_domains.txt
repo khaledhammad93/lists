@@ -8563,3 +8563,4 @@ adfs.finnair.com
 sts.finnair.com
 @rockwellautomation.com
 @ra.rockwell.com
+@rockwell.com
