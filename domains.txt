@@ -5472,3 +5472,4 @@ surveys.atlassian.com
 @aristocrat.com
 @finnair.com
 adfs.finnair.com
+sts.finnair.com
