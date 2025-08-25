@@ -5477,3 +5477,4 @@ sts.finnair.com
 @ra.rockwell.com
 @rockwell.com
 fs.rockwellautomation.com
+@modal.com
