@@ -8572,3 +8572,4 @@ securityscorecard.okta.com
 @cvedetails.com
 @securityscorecard.com
 adfs.ds.dtvops.net
+vpn.rockwell.com
