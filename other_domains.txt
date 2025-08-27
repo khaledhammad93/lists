@@ -8573,3 +8573,4 @@ securityscorecard.okta.com
 @securityscorecard.com
 adfs.ds.dtvops.net
 vpn.rockwell.com
+@ripio.com
