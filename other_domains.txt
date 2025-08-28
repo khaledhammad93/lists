@@ -1753,7 +1753,6 @@ klarna.enterprise.slack.com
 lime.slack.com
 linktree.okta.com
 loblaw.service-now.com
-login.ourtesco.com
 logoyazilim-my.sharepoint.com
 luno.enterprise.slack.com
 lusha-my.sharepoint.com
