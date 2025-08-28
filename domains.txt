@@ -3959,7 +3959,6 @@ ideals.okta.com
 identitynow-demo.com
 identityserver.lodgify.com
 identitysso.paddypower.com.nxt.ppbdev.com/view/login
-idfed.mpsa.com
 idfs-qa.gs.com
 idmefed.okta.com
 idp.bvgonline.ch
