@@ -3157,7 +3157,6 @@ Mobiilisovellus.S-PankkiOy@sok.fi
 @aig.co.jp
 @aig.co.kr
 @amaysim.com.au
-@amazon.com
 @availproject.org
 @cbre.com
 @crowdsec.net
