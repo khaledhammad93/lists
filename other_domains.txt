@@ -8599,3 +8599,4 @@ about-you.hr
 @scayle.cloud
 @bybit.eu
 @bybit.tr
+@intellum.com
