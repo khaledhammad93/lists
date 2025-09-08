@@ -8612,3 +8612,4 @@ toolsportal.zebra.com
 oua.okta.com
 @open.edu.au
 iconfitness.my.salesforce.com
+goodnotes.okta.com
