@@ -5522,3 +5522,4 @@ jawaker.com
 @happening.xyz
 iconfitness.my.salesforce.com
 goodnotes.okta.com
+@goodnotes.com
