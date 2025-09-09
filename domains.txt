@@ -5535,3 +5535,4 @@ admin.meeshosupply.com
 instawork.okta.com
 @xolv.com
 .xolv.com
+@openbanking.org.uk
