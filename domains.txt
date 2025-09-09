@@ -5536,3 +5536,4 @@ instawork.okta.com
 @xolv.com
 .xolv.com
 @openbanking.org.uk
+admin.prd-iam.openbanking.org.uk
