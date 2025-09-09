@@ -8629,3 +8629,4 @@ instawork.okta.com
 @openbanking.org.uk
 admin.prd-iam.openbanking.org.uk
 directory.openbanking.org.uk
+manager.openbanking.org.uk
