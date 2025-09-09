@@ -8625,3 +8625,4 @@ admin.meeshosupply.com
 @instawork.com
 instawork.okta.com
 @xolv.com
+.xolv.com
