@@ -8628,3 +8628,4 @@ instawork.okta.com
 .xolv.com
 @openbanking.org.uk
 admin.prd-iam.openbanking.org.uk
+directory.openbanking.org.uk
