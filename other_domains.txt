@@ -8631,3 +8631,4 @@ admin.prd-iam.openbanking.org.uk
 directory.openbanking.org.uk
 manager.openbanking.org.uk
 identity.beyondtrust.com
+admin.goodnotes.com
