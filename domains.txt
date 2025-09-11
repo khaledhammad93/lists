@@ -5245,7 +5245,6 @@ employee.store.rockstargames.com
 employer.opers.org
 requests.wbtvd.com
 prod.alkira3.net
-install.appcenter.ms
 github.com/cloudbees
 github.com/junelife
 github.com/bitwarden
