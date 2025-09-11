@@ -8671,3 +8671,4 @@ sharepoint.ual.com
 .ual.com
 @united.com
 @rippling.com
+grid-rippling.enterprise.slack.com
