@@ -5562,3 +5562,4 @@ backend.jiobit.com
 hce.io
 @onefinance.one
 @onepay.com
+column.okta.com
