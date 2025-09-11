@@ -8674,3 +8674,4 @@ sharepoint.ual.com
 grid-rippling.enterprise.slack.com
 idmoig.ual.com
 remotectx.ual.com
+team.ual.com
