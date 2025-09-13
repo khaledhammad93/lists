@@ -5607,3 +5607,4 @@ qhrtechnologies.com
 @pcexpress.ca
 finntech.no
 @vend.no
+@vend.dk
