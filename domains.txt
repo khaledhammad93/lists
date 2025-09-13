@@ -5609,3 +5609,4 @@ finntech.no
 @vend.no
 @vend.dk
 @m10s.io
+@vend.se
