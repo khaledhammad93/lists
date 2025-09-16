@@ -8718,3 +8718,4 @@ jointhemoment.net
 @bombay.io
 @yolo.io
 smarsh.okta.com
+@cursor.sh
