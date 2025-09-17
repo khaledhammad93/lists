@@ -8723,3 +8723,4 @@ smarsh.okta.com
 ice.moveinsync.com
 @aven.com
 @versa-networks.com
+konghq.okta.com
