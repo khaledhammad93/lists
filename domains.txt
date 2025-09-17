@@ -5635,3 +5635,4 @@ konghq.okta.com
 @allwyn.com
 @opap.gr
 adfs.opap.gr
+@kkcg.com
