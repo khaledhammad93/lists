@@ -8737,3 +8737,4 @@ opapp.arx.net
 @laheia.gr
 toradirect.gr
 @pamestoixima.gr
+@scratch.gr
