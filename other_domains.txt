@@ -8722,3 +8722,4 @@ smarsh.okta.com
 @cursor.com
 ice.moveinsync.com
 @aven.com
+@versa-networks.com
