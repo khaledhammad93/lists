@@ -8729,3 +8729,4 @@ konghq.okta.com
 @opap.gr
 adfs.opap.gr
 @kkcg.com
+allwynsummit.com
