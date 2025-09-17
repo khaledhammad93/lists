@@ -5632,3 +5632,4 @@ ice.moveinsync.com
 @versa-networks.com
 konghq.okta.com
 @konghq.com
+@allwyn.com
