@@ -8726,3 +8726,4 @@ ice.moveinsync.com
 konghq.okta.com
 @konghq.com
 @allwyn.com
+@opap.gr
