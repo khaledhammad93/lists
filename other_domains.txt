@@ -8727,3 +8727,4 @@ konghq.okta.com
 @konghq.com
 @allwyn.com
 @opap.gr
+adfs.opap.gr
