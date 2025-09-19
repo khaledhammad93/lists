@@ -2945,7 +2945,6 @@ vpn.atlassian.net
 @vintedgo.com
 @viriciti.com
 @virtru.com
-@vodafone.de
 @vodafone.om
 @voiapp.io
 @volkskrant
