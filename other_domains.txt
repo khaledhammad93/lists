@@ -4793,7 +4793,6 @@ zynga.okta.com,Cloudflare.okta.com
 @vintedgo.com
 @viriciti.com
 @virtru.com
-@vodafone.de
 @vodafone.om
 @voiapp.io
 @volkskrant
