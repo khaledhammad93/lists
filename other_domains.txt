@@ -6450,7 +6450,6 @@ zynga.okta.com,Cloudflare.okta.com
 %40koho.ca
 %40kolesa.kz
 %40komoju.com
-%40konenet.com
 %40konfhub.com
 %40krafton.com
 %40krisp.ai
