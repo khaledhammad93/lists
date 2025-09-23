@@ -8752,3 +8752,4 @@ coupangcorp.net
 @marketplace.expert
 owncloud.opap.gr
 @pepsico.com
+pepsico.okta.com
