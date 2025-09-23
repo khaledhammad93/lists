@@ -1906,7 +1906,6 @@ zynga.okta.com,Cloudflare.okta.com
 @Hyperconnect.com
 @Intempt.com
 @Inzpire.com
-@Kone.com
 @LCX.com
 @Moovit.com
 @Piratekingsgame.com
