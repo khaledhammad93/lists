@@ -5657,3 +5657,4 @@ moveworks.saplingapp.io
 nss.linecorp.com
 @navi.com
 navi.slack.com
+@coupang.com
