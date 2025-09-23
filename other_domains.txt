@@ -5034,7 +5034,6 @@ zynga.okta.com,Cloudflare.okta.com
 %40Hyperconnect.com
 %40Intempt.com
 %40Inzpire.com
-%40Kone.com
 %40LCX.com
 %40Moovit.com
 %40Piratekingsgame.com
