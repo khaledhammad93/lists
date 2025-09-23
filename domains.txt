@@ -5655,3 +5655,4 @@ opap.integrityline.com
 @moveworks.ai
 moveworks.saplingapp.io
 nss.linecorp.com
+@navi.com
