@@ -5658,3 +5658,4 @@ nss.linecorp.com
 @navi.com
 navi.slack.com
 @coupang.com
+csmessenger.coupang.com
