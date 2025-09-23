@@ -8755,3 +8755,4 @@ csmessenger.coupang.com
 coupang.okta.com
 coupangcorp.net
 @marketplace.expert
+owncloud.opap.gr
