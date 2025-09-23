@@ -3318,7 +3318,6 @@ zynga.okta.com,Cloudflare.okta.com
 @koho.ca
 @kolesa.kz
 @komoju.com
-@konenet.com
 @konfhub.com
 @krafton.com
 @krisp.ai
