@@ -5662,3 +5662,4 @@ coupangcorp.net
 owncloud.opap.gr
 @pepsico.com
 pepsico.okta.com
+@ospepqa.com
