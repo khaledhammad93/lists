@@ -54,7 +54,6 @@ vpn.atlassian.net
 @Hyperconnect.com
 @Intempt.com
 @Inzpire.com
-@Kone.com
 @LCX.com
 @Moovit.com
 @Piratekingsgame.com
