@@ -8757,3 +8757,4 @@ pepsico.okta.com
 @gatorade.com
 @thepepsicocanadafoundation.ca
 thepepsicocanadafoundation.ca
+shop.pfna.mypepsico.com
