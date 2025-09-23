@@ -5660,3 +5660,4 @@ navi.slack.com
 @coupang.com
 csmessenger.coupang.com
 coupang.okta.com
+coupangcorp.net
