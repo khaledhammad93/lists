@@ -8766,3 +8766,4 @@ atlassian.bl.ink
 @ozforensics.com
 ozforensics.com
 @logicmonitor.com
+bamboo.logicmonitor.com
