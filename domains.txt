@@ -5678,3 +5678,4 @@ ozforensics.com
 bamboo.logicmonitor.com
 confluence.logicmonitor.com
 jira.logicmonitor.com
+stash.logicmonitor.com
