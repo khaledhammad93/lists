@@ -5676,3 +5676,4 @@ atlassian.bl.ink
 ozforensics.com
 @logicmonitor.com
 bamboo.logicmonitor.com
+confluence.logicmonitor.com
