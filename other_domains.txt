@@ -8768,3 +8768,4 @@ ozforensics.com
 @logicmonitor.com
 bamboo.logicmonitor.com
 confluence.logicmonitor.com
+jira.logicmonitor.com
