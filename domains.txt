@@ -5688,3 +5688,4 @@ uat.ised-isde.canada.ca
 corporate.hdfcbank.com
 lastmilewebuat.hdfcuat.bank.in
 @deliveroo.net
+@deliveroo.com
