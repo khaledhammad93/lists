@@ -8778,3 +8778,4 @@ uat.ised-isde.canada.ca
 175.100.160.196
 corporate.hdfcbank.com
 lastmilewebuat.hdfcuat.bank.in
+@deliveroo.net
