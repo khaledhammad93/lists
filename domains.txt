@@ -5686,3 +5686,4 @@ uat.ised-isde.canada.ca
 @hdfcbank.com
 175.100.160.196
 corporate.hdfcbank.com
+lastmilewebuat.hdfcuat.bank.in
