@@ -8781,3 +8781,4 @@ lastmilewebuat.hdfcuat.bank.in
 @deliveroo.net
 @deliveroo.com
 ehgt.login.em2.oraclecloud.com
+ehgt-test.login.em2.oraclecloud.com
