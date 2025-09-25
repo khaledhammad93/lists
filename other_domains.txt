@@ -8772,3 +8772,4 @@ jira.logicmonitor.com
 stash.logicmonitor.com
 doublefs.com
 @doublefs.com
+@halara.com
