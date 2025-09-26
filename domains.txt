@@ -5697,3 +5697,4 @@ crowdin.slack.com
 adfs.styria.com
 @autopro24.at
 193.22.104
+zebra.sharepoint.com
