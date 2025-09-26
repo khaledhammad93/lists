@@ -8786,3 +8786,4 @@ ehgt-test.login.em2.oraclecloud.com
 @willhaben.at
 crowdin.slack.com
 adfs.styria.com
+@autopro24.at
