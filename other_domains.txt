@@ -8784,3 +8784,4 @@ ehgt.login.em2.oraclecloud.com
 ehgt-test.login.em2.oraclecloud.com
 @crowdin.com
 @willhaben.at
+crowdin.slack.com
