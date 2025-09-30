@@ -8794,5 +8794,4 @@ kohls.okta.com
 @acesso.io
 www4.acesso.io
 www3.acesso.io
-identity.acesso.io
 .unico.run
