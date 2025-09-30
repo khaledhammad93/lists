@@ -747,7 +747,6 @@ vpn.atlassian.net
 @decision.tech
 @deepcoin.com
 @deepwatch.com
-@deere.com
 @deezer.com
 @defisaver.com
 @defly.app
