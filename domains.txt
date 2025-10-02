@@ -5767,3 +5767,4 @@ aj-video-captioning-poc.azurewebsites.net
 ajmn-digital.zoom.us
 ajdigital.freshdesk.com
 ajdigital.slack.co
+@global.ual.com
