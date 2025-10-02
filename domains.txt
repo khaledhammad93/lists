@@ -5762,3 +5762,4 @@ aljazeera-org.myfreshworks.com
 digihealth-staging.aljazeera.com
 ajplussystems.signin.aws.amazon.com
 aljazeera20.cloud.looker.com
+ajdigital.atlassian.net
