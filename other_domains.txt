@@ -8866,7 +8866,6 @@ egrow.disprz.com
 docuware.bankaletihad.com
 ehgt.fa.em2.oraclecloud.com
 reports-govern.bankaletihad.com
-alt-pass.com
 @bitbucket.org
 @sourcetreeapp.com
 sourcetreeapp.com
