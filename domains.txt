@@ -5784,3 +5784,4 @@ sourcetreeapp.com
 avalara.my.salesforce.com
 avalara.sb.amp.vg
 remote.okta.com
+remote-sandbox.com
