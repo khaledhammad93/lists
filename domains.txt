@@ -5797,3 +5797,4 @@ team.df.ui.com
 wealthsimple.enterprise.slack.com
 lyft.enterprise.slack.com
 doordash.enterprise.slack.com
+crowdstrike.enterprise.slack.com
