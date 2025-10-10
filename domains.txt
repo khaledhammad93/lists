@@ -5780,7 +5780,6 @@ admin.atlassian.com
 @bitbucket.org
 @sourcetreeapp.com
 sourcetreeapp.com
-@sportradar.com
 avalara.my.salesforce.com
 avalara.sb.amp.vg
 remote.okta.com
