@@ -5801,3 +5801,4 @@ axon.slack.com
 @onepeloton.com
 onepeloton.okta.com
 @figure.com
+figure.okta.com
