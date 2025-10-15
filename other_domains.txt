@@ -8889,3 +8889,4 @@ crowdstrike.enterprise.slack.com
 axon.slack.com
 @onepeloton.com
 onepeloton.okta.com
+@figure.com
