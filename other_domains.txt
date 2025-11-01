@@ -8914,3 +8914,4 @@ rudderstack.okta.com
 @bitsighttech.com
 bitsight.okta.com
 bitsight.slack.com
+@storia.ro
