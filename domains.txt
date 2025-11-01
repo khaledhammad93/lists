@@ -5822,3 +5822,4 @@ ali.24.5.1990@hotmail.com
 wio.enterprise.slack.com
 @rudderstack.com
 rudderstack.okta.com
+@bitsighttech.com
