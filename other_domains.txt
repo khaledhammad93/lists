@@ -8921,3 +8921,4 @@ ww.okta.com
 @peabodynewhomes.co.uk
 sofi.okta.com
 @sofi.com
+sofi.enterprise.slack.com
