@@ -8926,3 +8926,4 @@ ajmn.slack.com
 @pksbb.ch
 @gobrightline.com
 access.gobrightline.com
+gobrightline.slack.com
