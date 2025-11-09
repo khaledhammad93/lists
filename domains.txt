@@ -5835,3 +5835,4 @@ sofi.okta.com
 sofi.enterprise.slack.com
 ajmn.slack.com
 @pksbb.ch
+@gobrightline.com
