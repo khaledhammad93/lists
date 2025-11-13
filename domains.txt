@@ -5842,3 +5842,4 @@ gobrightline.slack.com
 .inintca.com
 @genesys.com
 genesys-cloud.okta.com
+gopro.my.salesforce.com
