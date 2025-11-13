@@ -8929,3 +8929,4 @@ access.gobrightline.com
 gobrightline.slack.com
 @inintca.com
 .inintca.com
+@genesys.com
