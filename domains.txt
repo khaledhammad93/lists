@@ -5848,3 +5848,4 @@ corp.gopro.com
 @sentry.io
 datagrail.okta.com
 @datagrail.io
+datagrail.slack.com
