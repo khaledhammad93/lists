@@ -8933,3 +8933,4 @@ gobrightline.slack.com
 genesys-cloud.okta.com
 gopro.my.salesforce.com
 corp.gopro.com
+@paystack.com
