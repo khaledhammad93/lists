@@ -5852,5 +5852,4 @@ datagrail.slack.com
 @nayya.com
 nayya.okta.com
 nayya.slack.com
-subsplash.com
 @subsplash.com
