@@ -8946,3 +8946,4 @@ subsplash.slack.com
 subsplash.okta.com
 walkme.slack.com
 @jobs.ch
+@jobscout24.ch
