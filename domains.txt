@@ -5849,3 +5849,4 @@ corp.gopro.com
 datagrail.okta.com
 @datagrail.io
 datagrail.slack.com
+@nayya.com
