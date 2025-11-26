@@ -8939,3 +8939,4 @@ datagrail.okta.com
 @datagrail.io
 datagrail.slack.com
 @nayya.com
+nayya.okta.com
