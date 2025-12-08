@@ -8961,3 +8961,4 @@ ftp.santos.com
 @santos.com
 @skechers.com
 skechers.okta.com
+skechers.slack.com
