@@ -8959,3 +8959,4 @@ visible-xyz.slack.com
 vpn.santos.com
 ftp.santos.com
 @santos.com
+@skechers.com
