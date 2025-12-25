@@ -1,1 +1,1 @@
-atlassian.com:Unknown:Other:N/A
+atlassian.com:atlassian:Bugcrowd:https://bugcrowd.com/engagements/atlassian
